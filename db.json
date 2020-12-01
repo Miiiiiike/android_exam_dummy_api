@@ -1,0 +1,107 @@
+{
+    "customers":[
+        {
+            "id":1,
+            "first_name":"Leanne",
+            "last_name":"Graham",
+            "date_created":"Sat Aug 10 00:00:00 GMT+03:00 2019"
+        },
+        {
+            "id":2,
+            "first_name":"Ervin",
+            "last_name":"Howell",
+            "date_created":"Sat Aug 11 00:00:00 GMT+03:00 2019"
+        },
+        {
+            "id":3,
+            "first_name":"Clementine ",
+            "last_name":"Bauch",
+            "date_created":"Sat Aug 11 00:00:00 GMT+03:00 2019"
+        },
+        {
+            "id":4,
+            "first_name":"Patricia",
+            "last_name":"Lebsack",
+            "date_created":"Sat Aug 12 00:00:00 GMT+03:00 2019"
+        },
+        {
+            "id":5,
+            "first_name":"Chelsey",
+            "last_name":"Schulist",
+            "date_created":"Sat Aug 13 00:00:00 GMT+03:00 2019"
+        },
+        {
+            "id":6,
+            "first_name":"Dennis",
+            "last_name":"Graham",
+            "date_created":"Sat Aug 13 00:00:00 GMT+03:00 2019"
+        },
+        {
+            "id":7,
+            "first_name":"Kurtis",
+            "last_name":"Weissnat",
+            "date_created":"Sat Aug 13 00:00:00 GMT+03:00 2019"
+        },
+        {
+            "id":8,
+            "first_name":"Nicholas",
+            "last_name":"Runolfsdottir",
+            "date_created":"Sat Aug 14 00:00:00 GMT+03:00 2019"
+        },
+        {
+            "id":9,
+            "first_name":"Leanne",
+            "last_name":"Graham",
+            "date_created":"Sat Aug 14 00:00:00 GMT+03:00 2019"
+        },
+        {
+            "id":10,
+            "first_name":"Glenna",
+            "last_name":"Reichert",
+            "date_created":"Sat Aug 15 00:00:00 GMT+03:00 2019"
+        }
+
+    ],
+    "saving_accounts":[
+        {
+            "id":1,
+            "customer_id":1,
+            "name":"Commercial Bank of Ethiopia",
+            "balance":2312.0,
+            "date_created":"Sat Aug 10 00:00:00 GMT+03:00 2019"
+    
+        },
+        {
+            "id":2,
+            "customer_id":1,
+            "name":"Dashen Bank",
+            "balance":2312.0,
+            "date_created":"Sat Aug 10 00:00:00 GMT+03:00 2019"
+    
+        },
+        {
+            "id":3,
+            "customer_id":1,
+            "name":"Awash Bank",
+            "balance":2312.0,
+            "date_created":"Sat Aug 10 00:00:00 GMT+03:00 2019"
+    
+        },
+        {
+            "id":4,
+            "customer_id":1,
+            "name":"Abay Bank",
+            "balance":2312.0,
+            "date_created":"Sat Aug 10 00:00:00 GMT+03:00 2019"
+        },
+        {
+            "id":4,
+            "customer_id":1,
+            "name":"Bunna Bank",
+            "balance":2312.0,
+            "date_created":"Sat Aug 10 00:00:00 GMT+03:00 2019"
+        }
+        
+
+    ]
+}
